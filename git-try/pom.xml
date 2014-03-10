@@ -8,7 +8,7 @@
   	<parent>
 		  <groupId>com.exelate.try</groupId>
 		<artifactId>try-parent</artifactId>
-		<version>1.5.0.33</version>
+		<version>1.5.0.34</version>
 	</parent>
 
 </project>
